@@ -5,6 +5,7 @@
     "description": "Cordova/Phonegap plugin for iOS and Android to assist in leaving user reviews/ratings in the App Stores.",
     "author": "Dave Alden",
     "license": "MIT",
+    "main": "www/launchreview.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/dpa99c/cordova-launch-review.git"
